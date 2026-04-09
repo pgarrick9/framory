@@ -356,7 +356,7 @@ function getTodayDateStr() {
 
 async function loadPuzzle() {
   try {
-    const res = await fetch(PUZZLES_URL);
+    const res = await fetch(PUZZLES_URL + '?t=' + Date.now(), { cache: 'no-store' });
     if (!res.ok) throw new Error('Failed to fetch puzzles');
     const puzzles = await res.json();
     const today = getTodayDateStr();
