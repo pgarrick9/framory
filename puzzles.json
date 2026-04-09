@@ -24,5 +24,33 @@
     "lng": -112.0706267,
     "cityDisplay": "Phoenix, AZ",
     "display": "Chicago Bulls vs Phoenix Suns - 1993 NBA Finals"
+  },
+  {
+    "number": 2,
+    "date": "2026-04-10",
+    "photos": [
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775710874/day3_1_h7aiqm.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775710879/day3_2_vplkcx.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775710849/day3_3_t2531i.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775710845/day3_4_zriuuo.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775710846/day3_5_y0o6rp.png"
+    ],
+    "c1": "liverpool fc",
+    "c1Answers": [
+      "liverpool fc",
+      "liverpool",
+      "liverpool f.c"
+    ],
+    "c2": "real madrid",
+    "c2Answers": [
+      "real madrid",
+      "real madrid cf",
+      "madrid"
+    ],
+    "year": 2018,
+    "lat": 50.433497,
+    "lng": 30.5213486,
+    "cityDisplay": "Kyiv, Ukraine",
+    "display": "Liverpool vs Real Madrid - 2018 UEFA Champions League Final"
   }
 ]
