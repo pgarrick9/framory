@@ -1,0 +1,20 @@
+[
+  {
+    "number": 1,
+    "date": "2026-04-10",
+    "photos": [
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775698276/game1_1_rvqpo5.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775698288/game1_2_n5my1g.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775698306/game1_3_j65sun.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775698308/game1_4_zyv4yh.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775698318/game1_5_dm0bqu.png"
+    ],
+    "c1": "new england patriots",
+    "c2": "new york giants",
+    "year": 2008,
+    "lat": 33.5277,
+    "lng": -112.2626,
+    "cityDisplay": "Phoenix, Arizona",
+    "display": "New England Patriots vs New York Giants · Super Bowl XLII · Phoenix, Arizona · 2008"
+  }
+]
