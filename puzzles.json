@@ -3,18 +3,26 @@
     "number": 1,
     "date": "2026-04-08",
     "photos": [
-      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775698276/game1_1_rvqpo5.png",
-      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775698288/game1_2_n5my1g.png",
-      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775698306/game1_3_j65sun.png",
-      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775698308/game1_4_zyv4yh.png",
-      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775698318/game1_5_dm0bqu.png"
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775704958/day2_1_jdfpeo.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775704966/day2_2_jtfarr.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775704969/day2_3_cknoc6.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775704973/day2_4_byqijw.png",
+      "https://res.cloudinary.com/dahejkfvo/image/upload/v1775704977/day2_5_u1zjpp.png"
     ],
-    "c1": "new england patriots",
-    "c2": "new york giants",
-    "year": 2008,
-    "lat": 33.5277,
-    "lng": -112.2626,
-    "cityDisplay": "Phoenix, Arizona",
-    "display": "New England Patriots vs New York Giants · Super Bowl XLII · Phoenix, Arizona · 2008"
+    "c1": "chicago bulls",
+    "c1Answers": [
+      "chicago bulls",
+      "bulls"
+    ],
+    "c2": "phoenix suns",
+    "c2Answers": [
+      "phoenix suns",
+      "suns"
+    ],
+    "year": 1993,
+    "lat": 33.4465114,
+    "lng": -112.0706267,
+    "cityDisplay": "Phoenix, AZ",
+    "display": "Chicago Bulls vs Phoenix Suns - 1993 NBA Finals"
   }
 ]
